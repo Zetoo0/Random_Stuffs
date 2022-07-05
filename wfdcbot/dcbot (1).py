@@ -8,7 +8,7 @@ import os
 
 
 client = commands.Bot(command_prefix=">")
-token = "NzYyMzMxMDMyNDM4ODMzMTUy.X3nmGQ.7LLznZS2G0ulZns15ly7rJDJCSw"
+token = //your token
 
 
 
