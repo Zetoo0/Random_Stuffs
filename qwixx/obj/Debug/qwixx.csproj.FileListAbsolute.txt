@@ -1,0 +1,10 @@
+C:\Users\tanulo\source\repos\qwixx\qwixx\bin\Debug\qwixx.exe.config
+C:\Users\tanulo\source\repos\qwixx\qwixx\bin\Debug\qwixx.exe
+C:\Users\tanulo\source\repos\qwixx\qwixx\bin\Debug\qwixx.pdb
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.csproj.AssemblyReference.cache
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.Form1.resources
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.Properties.Resources.resources
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.csproj.GenerateResource.cache
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.exe
+C:\Users\tanulo\source\repos\qwixx\qwixx\obj\Debug\qwixx.pdb
