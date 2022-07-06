@@ -1,0 +1,6 @@
+﻿  mathengine.cpp
+C:\Users\zeten\source\repos\mathengine\mathengine\vec3.h(97,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\zeten\source\repos\mathengine\mathengine\vec3.h(98,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\zeten\source\repos\mathengine\mathengine\mathengine.cpp(359,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\zeten\source\repos\mathengine\mathengine\mathengine.cpp(359,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  mathengine.vcxproj -> C:\Users\zeten\source\repos\mathengine\Debug\mathengine.exe
